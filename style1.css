@@ -1,0 +1,21 @@
+.search-container{
+    margin-top: 30px;
+    padding: 10px;
+}
+.searchButton{
+    align-items: center;
+    padding-bottom: 30px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(136, 119, 119);
+font-size: 50px;
+}
+.body{
+    background-color: rgb(30, 156, 156);
+}
+.logo{
+    
+}
+
